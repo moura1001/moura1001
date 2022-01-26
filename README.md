@@ -9,7 +9,7 @@
 - Game development enthusiast.
 - Study and practice. Learn by doing.
 
-#### Languages:
+#### Development:
 <div>
   <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/java.png">
   <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/csharp.png">
@@ -18,20 +18,16 @@
   <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/clojure.png">
 </div>
 
-#### Frameworks/Platforms:
+####
 <div>
   <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/spring-boot.png">
   <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/react.png">
 </div>
 
-#### Data:
+####
 <div>
   <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/postgresql.png">
-</div>
-
-#### Tools:
-<div>
-  <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/git.png">
+    <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/git.png">
   <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/docker.png">
 </div>
 
