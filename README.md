@@ -11,24 +11,22 @@
 
 #### Development:
 <div>
-  <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/java.png">
-  <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/csharp.png">
-  <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/kotlin.png">
-  <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/javascript.png">
-  <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/clojure.png">
+  <img width=64 height=64 src="./src/java.png">
+  <img width=64 height=64 src="./src/golang.png">
+  <img width=64 height=64 src="./src/javascript.png">
 </div>
 
 ####
 <div>
-  <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/spring-boot.png">
-  <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/react.png">
+  <img width=64 height=64 src="./src/spring-boot.png">
+  <img width=64 height=64 src="./src/react.png">
 </div>
 
 ####
 <div>
-  <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/postgresql.png">
-    <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/git.png">
-  <img width=64 height=64 src="https://github.com/moura1001/moura1001/blob/main/src/docker.png">
+  <img width=64 height=64 src="./src/postgresql.png">
+    <img width=64 height=64 src="./src/git.png">
+  <img width=64 height=64 src="./src/docker.png">
 </div>
 
 #### Stats:  
