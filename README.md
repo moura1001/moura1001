@@ -1,7 +1,7 @@
 <div>
 <h2>Hi, I'm Moura!</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genival-jos%C3%A9-6388aa158)](https://www.linkedin.com/in/genival-jos%C3%A9-6388aa158) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genival-moura-neto)](https://www.linkedin.com/in/genival-moura-neto) 
 </div>
 
 #### About Me
